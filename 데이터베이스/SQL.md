@@ -7,6 +7,12 @@
 질의 해석에 대해 언급하는 "절차적" 언어  
 
 #### 종류
-![image](https://user-images.githubusercontent.com/50320556/172090635-afbce14c-46f8-42e7-a54b-1cf02a4b3ef1.png)  
+![image](https://user-images.githubusercontent.com/50320556/172090749-d5168d10-67df-4a4f-98ab-d9796cb3fb5b.png)  
 
+#### 예제
+[문제1] 마당서점의 도서 중 가격이 8000원 이하인 도서이름과 출판사를 보이시오.  
 
+![image](https://user-images.githubusercontent.com/50320556/172090993-64bb1854-1706-43ae-9870-8184030a14d9.png)  
+
+  
+[정답] π도서이름, 출판사 (σ가격＜=8000 도서A)  
